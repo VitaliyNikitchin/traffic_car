@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cars</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="title_activity_play">Play</string>
+    <string name="records">Records</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="settings">Settings</string>
+    <string name="quit">Quit</string>
+    <string name="title_activity_end_game">EndGameActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hits">Hits: </string>
+    <string name="meters">Meters:</string>
+    <string name="you_lose">You lose</string>
+    <string name="score">Score (meters + 10*hits): </string>
+    <string name="cancel">Cancel</string>
+    <string name="level">Level: </string>
+    <string name="exit">Exit</string>
+    <string name="rules">Rules</string>
+    <string name="title_activity_rule">Rules</string>
+    <string name="player_name">Player name: </string>
+    <string name="player">Player</string>
+    <string name="save">Save</string>
+    <string name="title_activity_records">RecordsActivity</string>
+    <string name="clear_records">Clear records</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="volume">Volume: </string>
+
+</resources>

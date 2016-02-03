@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.car.Play" >
+	   
+    
+    <item 
+        android:id="@+id/heart1" 
+        android:title="1" 
+       	android:icon="@drawable/heart"
+       	app:showAsAction="always" 
+       	android:enabled="false">  
+    </item>
+    
+    <item 
+        android:id="@+id/heart2" 
+        android:title="2" 
+       	android:icon="@drawable/heart"
+       	app:showAsAction="always" 
+       	android:enabled="false">  
+    </item>
+    
+    <item 
+        android:id="@+id/heart3" 
+        android:title="3" 
+       	android:icon="@drawable/heart"
+       	app:showAsAction="always"
+       	android:enabled="false">  
+    </item>
+     
+    
+    <item
+        android:id="@+id/itemPause"
+        android:icon="@drawable/action_pause"
+        android:title="@string/pause"            
+    	app:showAsAction="always">
+    </item>        
+
+</menu>
